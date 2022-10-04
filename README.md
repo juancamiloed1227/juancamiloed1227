@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**juancamiloed1227/juancamiloed1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer and a student specializing in artificial intelligence, I am interested in web development, mobile and artificial intelligence.
 
-Here are some ideas to get you started:
+🧑‍💻 **Technologies**
+- HTML and CSS
+- Vue and React as Javascript frameworks.
+- Go and some Node.Js for backend development.
+- React Native for mobile development.
+- NPM as package manager.
+- SQL and some GraphQL for databases.
+- Python for Machine Learning with Pandas, Tensorflow and Scikit Learn.
+- Git for code versioning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Vue Routing, Testing, State Management and Machine Learning.
+
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/juancamiloed)

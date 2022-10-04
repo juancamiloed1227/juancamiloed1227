@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a developer and a student specializing in artificial intelligence, I am interested in web development, mobile and artificial intelligence.
+I am a developer and a student specializing in artificial intelligence, I am interested in web development, mobile development and artificial intelligence.
 
 ---
 

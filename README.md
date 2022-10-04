@@ -2,6 +2,8 @@
 
 I am a developer and a student specializing in artificial intelligence, I am interested in web development, mobile and artificial intelligence.
 
+---
+
 🧑‍💻 **Technologies**
 - HTML and CSS
 - Vue and React as Javascript frameworks.

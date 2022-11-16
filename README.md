@@ -14,6 +14,4 @@ I am a developer and a student specializing in artificial intelligence, I am int
 - Python for Machine Learning with Pandas, Tensorflow and Scikit Learn.
 - Git for code versioning.
 
-🌱 I’m currently learning Vue Routing, Testing, State Management and Machine Learning.
-
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/juancamiloed)
